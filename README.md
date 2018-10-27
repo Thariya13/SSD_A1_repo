@@ -15,7 +15,7 @@ Clone this repository **Use master branch !**
 > **Steps:**
 
 > - Run `npm install`.
-> - Navigate to `Synchronizer Token Pattern ` or `Double Submit Cookies Pattern` directory and run `node index.js`.
+> - Navigate to `Synchronizer Token Pattern ` or `Double Submit Cookies Pattern` directory and run `node server.js`.
 > - The app runs on port **3000**.
 > - Open a web browser and navigate to http://localhost:3000/  
 > - User username **guest ** and password **guest@123** to log in.
